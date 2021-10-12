@@ -1,8 +1,8 @@
-<p align="centre">
+<p align="center">
   <b> Hello! </b> 
   <br> <br>
   <br><br>
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif"></img>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="360px" height="360px"/></img>
   <br>
   <br>
 
