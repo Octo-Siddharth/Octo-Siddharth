@@ -10,7 +10,10 @@
 <h3 align="center">I'm a passionate Electronics and Communication Engineer from India.</h3>
 
 
+
 ## 🙋‍♂️ About Me
+</p>
+<img align="right" alt="filmocat" width="200" src="https://octodex.github.com/images/filmtocat.png" width="60" height="220"/>
 
 - 🔭 I’m currently working on **[]()**
 
@@ -18,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Octo-Siddharth)**
 
 - 📫 How to reach me **siddhartha123rocks@gmail.com**
 
@@ -26,9 +29,9 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/arduino.png" alt="arduino" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v2.gif" alt="linux" width="60" height="60"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="matlab" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png" alt="opencv" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.gif" alt="python" width="60" height="60"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="60" height="60"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png" alt="unity" width="60" height="60"/> </a> <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="raspberrypi" width="60" height="60"/> </p>
+<p align="center">
+  <h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/arduino.png" alt="arduino" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v2.gif" alt="linux" width="60" height="60"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="matlab" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png" alt="opencv" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.gif" alt="python" width="60" height="60"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="60" height="60"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png" alt="unity" width="60" height="60"/> </a> <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="raspberrypi" width="60" height="60"/> </p>
 
 
 </p>
