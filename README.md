@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Octo-Siddharth)**
 
-- 📫 How to reach me **siddhartha123rocks@gmail.com**
+- 📫 How to reach me **siddhartha.rakshit03@gmail.com**
 
 - ⚡ Fun fact **I am a passionate coder and an curious electronic hobbyist.**
 
