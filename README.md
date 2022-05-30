@@ -3,7 +3,7 @@
   
   <br> <br>
   <br><br>
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="360px" height="360px"/></img>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="355px" height="355px"/></img>
   <br>
   <br>
 
