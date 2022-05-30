@@ -4,7 +4,7 @@
   <br> <br>
   <br><br>
   <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="355px" height="355px"/></img> </p>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="360px" height="360px"/></img> </p>
   <br>
   <br>
 
