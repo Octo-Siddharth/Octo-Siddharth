@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"> Hello ! </h1>
-  <b> Hello! </b> 
+  
   <br> <br>
   <br><br>
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="360px" height="360px"/></img>
